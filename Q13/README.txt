@@ -1,7 +1,7 @@
 🛡️ Modern C++: Mastering the mutable Keyword
 
 📌 Overview
-This tutorial introduces the mutable keyword—a powerful tool for maintaining Logical Constness. We demonstrate how to create a CallCounter that tracks how many times a message has been sent, even when the "calling" function is strictly marked as const.
+This tutorial introduces the mutable keyword a powerful tool for maintaining Logical Constness. We demonstrate how to create a CallCounter that tracks how many times a message has been sent, even when the "calling" function is strictly marked as const.
 
 🛠 Key Features
 The mutable Specifier: Allows specific member variables to be modified inside const member functions.
